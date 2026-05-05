@@ -1,0 +1,14 @@
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\SipkovaTulipanka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\SipkovaTulipanka.AssemblyInfoInputs.cache
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\SipkovaTulipanka.AssemblyInfo.cs
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\SipkovaTulipanka.csproj.CoreCompileInputs.cache
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\bin\Debug\net8.0\MudServer.exe
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\bin\Debug\net8.0\MudServer.deps.json
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\bin\Debug\net8.0\MudServer.runtimeconfig.json
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\bin\Debug\net8.0\MudServer.dll
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\bin\Debug\net8.0\MudServer.pdb
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\MudServer.dll
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\refint\MudServer.dll
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\MudServer.pdb
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\SipkovaTulipanka.genruntimeconfig.cache
+C:\Users\maxkl\Documents\Škola\PV\2526\SipkovaTulipanka\SipkovaTulipanka\obj\Debug\net8.0\ref\MudServer.dll

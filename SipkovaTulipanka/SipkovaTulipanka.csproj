@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<!-- .NET 8 nebo novější – podporuje moderní C# a async/await -->
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<!-- Zapne nullable reference types – méně NullPointerException -->
+		<ImplicitUsings>enable</ImplicitUsings>
+		<!-- Automaticky přidá System, System.Collections atd. -->
+		<OutputType>Exe</OutputType>
+		<!-- Spustitelný soubor, ne knihovna -->
+		<AssemblyName>MudServer</AssemblyName>
+		<RootNamespace>MudServer</RootNamespace>
+	</PropertyGroup>
+
+</Project>
